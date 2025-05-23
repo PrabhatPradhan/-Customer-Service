@@ -19,7 +19,7 @@ export default function page() {
             </p>
           </div>
           <div className="mt-6 md:mt-0">
-            <Image
+            <img
               src="https://handyman.fixherotheme.com/wp-content/uploads/2023/09/man.png"
               alt="Repairman"
               className="max-h-52"
